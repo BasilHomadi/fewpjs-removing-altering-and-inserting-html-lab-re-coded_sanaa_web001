@@ -1,2 +1,2 @@
 // Write your code here!
-document.querySelector()
+document.querySelector('')
